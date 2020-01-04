@@ -1,6 +1,5 @@
 # UH-Soundboard-Complete
 
- &gt; Privacy Policy</h2>
 <hr>
 <div id="content">
     <h2>Privacy Policy</h2>
